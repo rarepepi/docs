@@ -7,23 +7,23 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#0B76DB",
+    "light": "#3895ED",
+    "dark": "#0D5B93",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#1B1D1C",
+      "to": "#0B76DB"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:hello@noramp.io"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://dash.noramp.io"
   },
   "tabs": [
     {
@@ -51,11 +51,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
+      "pages": ["introduction", "quickstart", "development"]
     },
     {
       "group": "Essentials",
@@ -70,9 +66,7 @@
     },
     {
       "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
+      "pages": ["api-reference/introduction"]
     },
     {
       "group": "Endpoint Examples",
